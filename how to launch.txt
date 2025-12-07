@@ -1,7 +1,1 @@
-inside of 
-MSYS2 MINGW64 Shell
-C:\Users\qrmoo\Downloads\Gravity_Simulation\Gravity_Simulation
-then:
-g++ gravity_sim_3Dgrid.cpp -o gravity_sim.exe -lglfw3 -lglew32 -lopengl32 -lgdi32
-then:
-./gravity_sim.exe
+Open the exe file called "gravity_sim.exe"
