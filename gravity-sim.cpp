@@ -60,7 +60,7 @@ class Object {
         bool target = false;
 
         float mass;
-        float density;  // kg / m^3  HYDROGEN
+        float density;
         float radius;
 
         glm::vec3 LastPos = position;
